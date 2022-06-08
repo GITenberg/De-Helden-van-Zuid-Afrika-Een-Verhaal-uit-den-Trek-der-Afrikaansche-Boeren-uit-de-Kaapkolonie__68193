@@ -1,0 +1,38 @@
+_repo: De-Helden-van-Zuid-Afrika-Een-Verhaal-uit-den-Trek-der-Afrikaansche-Boeren-uit-de-Kaapkolonie__68193
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Penning, L. (Louwrens)
+    aliases:
+    - Penning, Louwrens
+    - Penning, Lawrence
+    birthdate: 1854
+    deathdate: 1927
+    gutenberg_agent_id: '37561'
+    url: http://www.gutenberg.org/2009/agents/37561
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Louwrens_Penning
+    - https://nl.wikipedia.org/wiki/Louwrens_Penning
+description: ''
+gutenberg_issued: '2022-05-28'
+identifiers:
+  gutenberg: '68193'
+language: nl
+pgterms:marc904: https://archive.org/details/deheldenvanzuida00penn/page/n11/mode/2up
+pgterms:marc905: 20200406123618penning
+pgterms:marc906: '1900'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive)
+publication_note: Netherlands :F. Duym,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- History -- Great Trek, 1836-1840 -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: "De Helden van Zuid-Afrika\r\nEen Verhaal uit den \"Trek\" der Afrikaansche\
+  \ Boeren uit de Kaapkolonie naar de Transvaal"
+url: http://www.gutenberg.org/ebooks/68193
