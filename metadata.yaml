@@ -1,5 +1,8 @@
 _repo: De-Helden-van-Zuid-Afrika-Een-Verhaal-uit-den-Trek-der-Afrikaansche-Boeren-uit-de-Kaapkolonie__68193
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Penning, L. (Louwrens)
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Louwrens_Penning
     - https://nl.wikipedia.org/wiki/Louwrens_Penning
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68193#De-Helden-van-Zuid-Afrika-Een-Verhaal-uit-den-Trek-der-Afrikaansche-Boeren-uit-de-Kaapkolonie_
 gutenberg_issued: '2022-05-28'
 identifiers:
   gutenberg: '68193'
